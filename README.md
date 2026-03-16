@@ -1,2 +1,2 @@
 # TBWallet
-TBWallet – A secure multi-chain cryptocurrency wallet.
+TBWallet –  A secure multi-chain cryptocurrency wallet.
